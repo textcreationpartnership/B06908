@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mad man's morice; or, A warning for young-men to have a care, how they in love intangled are: wherein by experience you shall find, his trouble and grief with discontent of mind. To a pleasant new tune.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06908</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[15]</idno>
+            <idno type="EEBO-CITATION">99887222</idno>
+            <idno type="PROQUEST">ocm99887222</idno>
+            <idno type="VID">181932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181932)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mad man's morice; or, A warning for young-men to have a care, how they in love intangled are: wherein by experience you shall find, his trouble and grief with discontent of mind. To a pleasant new tune.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A[lexander]. M[ilbourn]. and sold by the booksellers of London.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Humfrey Crouch.</note>
+                  <note>Verse: "Heard you not lately of a man ..."</note>
+                  <note>With one woodcut above the first two columns.</note>
+                  <note>Place, date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181932:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>The Mad Man's Morice; or,</head>
+            <argument>
+               <lg>
+                  <l>A warning for young-men to have a care,</l>
+                  <l>How they in Love intangled are:</l>
+                  <l>Wherein by experience you ſhall find,</l>
+                  <l>His trouble and grief with diſcontent of mind.</l>
+               </lg>
+            </argument>
+            <opener>To a pleaſant new Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>HEard you not lately of a Man,</l>
+               <l>that went beſides his Wits,</l>
+               <l>And naked through the Streets he ran,</l>
+               <l>wrapt in his frantick fits?</l>
+               <l>My honeſt Neighbours, it is I,</l>
+               <l>hark how the People flout me,</l>
+               <l>Sée where the mad man comes they cry,</l>
+               <l>with all the Boys about me,</l>
+               <l>Into a Pond ſtack naked I ran,</l>
+               <l>and caſt away my Cloaths Sir,</l>
+               <l>Without the help of any man,</l>
+               <l>made ſhift to get away Sir,</l>
+               <l>How I got out I have forgot,</l>
+               <l>I do not well remember,</l>
+               <l>Or whether it was cold or hot,</l>
+               <l>in <hi>June</hi> or in <hi>December.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tom Bedlam's</hi> but a ſage to me,</l>
+               <l>I ſpeak in ſober ſadneſs,</l>
+               <l>For more ſtrange viſions do I ſee,</l>
+               <l>then he in all his madneſs;</l>
+               <l>When firſt to me this chance befel,</l>
+               <l>about the Market walkt I,</l>
+               <l>With Capons feathers in my Cap,</l>
+               <l>and to my ſelf thus talkt I:</l>
+               <l>Did you not ſee my Love of late,</l>
+               <l>like <hi>Titan</hi> in her glory?</l>
+               <l>Did you not know ſhe was my mate,</l>
+               <l>and I muſt write her ſtory?</l>
+               <l>
+                  <hi>With Pen of Gold on Silver Leaf,</hi>
+               </l>
+               <l>
+                  <hi>I will ſo much befriend her,</hi>
+               </l>
+               <l>
+                  <hi>For why I am of that belief,</hi>
+               </l>
+               <l>
+                  <hi>none can ſo well commend her.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Saw you not Angels in her eyes,</hi>
+               </l>
+               <l>
+                  <hi>whilſt that ſhe was a ſpeaking?</hi>
+               </l>
+               <l>
+                  <hi>Smelt you not ſmells like Paradiſe,</hi>
+               </l>
+               <l>
+                  <hi>between two rubies breaking,</hi>
+               </l>
+               <l>
+                  <hi>Is not her hair more pure then gold,</hi>
+               </l>
+               <l>
+                  <hi>of fineſt Spiders ſpinning:</hi>
+               </l>
+               <l>
+                  <hi>Methinks in her I do behold,</hi>
+               </l>
+               <l>
+                  <hi>my joys and woes beginning.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Is not a dimple in her Cheek</l>
+               <l>each eye a ſtar that's ſtarting</l>
+               <l>Is not all graces inſtal'd in her,</l>
+               <l>each ſtep all joys imparting:</l>
+               <l>Methinks I ſee her in a cloud,</l>
+               <l>with graces round about her;</l>
+               <l>To them I call and cry aloud,</l>
+               <l>I cannot live without her.</l>
+            </lg>
+            <lg>
+               <l>Then raging towards the sky I rove</l>
+               <l>thinking to catch her hand,</l>
+               <l>O then to Iove I call and cry,</l>
+               <l>to let her by me ſtand;</l>
+               <l>I look behind and there I ſaw</l>
+               <l>my ſhaddow me beguile,</l>
+               <l>I wiſh ſhe were as near to me,</l>
+               <l>which makes my Worſhip ſmile.</l>
+            </lg>
+            <lg>
+               <l>There is no creature can compare,</l>
+               <l>with my beloved Nancy,</l>
+               <l>Thus I built Caſtles in the Air,</l>
+               <l>this is the fruit of fancy:</l>
+               <l>My thoughts mount high above the sky,</l>
+               <l>of none I ſtand in awe,</l>
+               <l>Although my body here doth lye,</l>
+               <l>upon a Pad of Straw.</l>
+            </lg>
+            <lg>
+               <l>I was as good a harmleſs youth,</l>
+               <l>before baſe Cupid caught me;</l>
+               <l>Or his own Mother with her charms</l>
+               <l>into this caſe hath brought me:</l>
+               <l>Stript and whipt now muſt I be,</l>
+               <l>in Bedlam bound in chains</l>
+               <l>Good People now you all may ſee</l>
+               <l>what love hath for his pains.</l>
+            </lg>
+            <lg>
+               <l>When I was young as others are,</l>
+               <l>with Gallants did I flouriſh,</l>
+               <l>O then I was the propereſt Lad,</l>
+               <l>that was in all the Pariſh:</l>
+               <l>The Bracelet which I us'd to wear,</l>
+               <l>about my arms ſo tender,</l>
+               <l>Are turned into iron plates</l>
+               <l>about my body ſlender.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>My ſilken ſuits do now decay</hi>
+               </l>
+               <l>
+                  <hi>my cups of gold are vaniſhed:</hi>
+               </l>
+               <l>
+                  <hi>And all my friends do wear away,</hi>
+               </l>
+               <l>
+                  <hi>as I from them were baniſhed:</hi>
+               </l>
+               <l>
+                  <hi>My ſilver cups are turn'd to earth</hi>
+               </l>
+               <l>
+                  <hi>i'm jeer'd of every Clown:</hi>
+               </l>
+               <l>
+                  <hi>I was a better man by birth,</hi>
+               </l>
+               <l>
+                  <hi>till fortune caſt me down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I am out of frame and temper too,</l>
+               <l>though I am ſomewhat chearful,</l>
+               <l>O this can love and fancy do,</l>
+               <l>if that you be not careful:</l>
+               <l>O ſet a Watch before your eyes,</l>
+               <l>leaſt they betray your heart:</l>
+               <l>And make you ſlaves to vanities,</l>
+               <l>to act a mad mans part.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Declare this to each Mothers Son</hi>
+               </l>
+               <l>
+                  <hi>unto each honeſt Lad:</hi>
+               </l>
+               <l>
+                  <hi>Let them not do as I have done,</hi>
+               </l>
+               <l>
+                  <hi>leſt they like me grow mad:</hi>
+               </l>
+               <l>
+                  <hi>If Cupid ſtrike, be ſure of this,</hi>
+               </l>
+               <l>
+                  <hi>let reaſon rule affection,</hi>
+               </l>
+               <l>
+                  <hi>So ſhall thou never do amiſs,</hi>
+               </l>
+               <l>
+                  <hi>by reaſons good direction.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I have no more to ſay to you,</l>
+               <l>my keepers now doth chide me,</l>
+               <l>Now muſt I bid you all adieu,</l>
+               <l>God knows what will betide me;</l>
+               <l>To picking ſtraws now muſt I go,</l>
+               <l>my time in Bedlam ſpending,</l>
+               <l>Good folks you your beginning know,</l>
+               <l>but do not know your ending.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for <hi>A. M.</hi> and ſold by the Bookſellers of London.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
